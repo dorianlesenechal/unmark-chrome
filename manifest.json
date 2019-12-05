@@ -15,7 +15,7 @@
   "permissions": [
     "tabs",
     "contextMenus",
-    "*://unmark.it/"
+    "*://bookmark.lesenechal.eu/"
   ],
 
   "omnibox": { "keyword" : "unmark" },
