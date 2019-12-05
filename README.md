@@ -1,6 +1,6 @@
 # NOTE
 
-## Files of this fork are updated to work with bookmarks.lesenechal.eu. To install the extension, just download the latest release of the extension
+## Files of this fork are updated to work with bookmarks.lesenechal.eu. To install the extension, just download the [latest release](https://github.com/dorianlesenechal/unmark-chrome/releases/) of the extension
 
 ## Hey There
 Here is our code for Unmark's Chrome extension. Feel free to use it. Below are a few instructions on how to customize it to work with your domain.
