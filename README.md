@@ -1,3 +1,8 @@
+# NOTE
+
+## Files of this fork are updated to work with bookmarks.lesenechal.eu
+## Ton install the extension, just download the latest release of the extension
+
 ## Hey There
 Here is our code for Unmark's Chrome extension. Feel free to use it. Below are a few instructions on how to customize it to work with your domain.
 
