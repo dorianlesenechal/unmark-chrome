@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "Unmark",
-  "description": "Unmark's Chrome extension for saving your marks.",
+  "name": "LS Bookmarks",
+  "description": "LS Bookmark's Chrome extension for saving your marks.",
   "version": "1.0.1",
-  "homepage_url": "https://unmark.it",
+  "homepage_url": "https://bookmarks.lesenechal.eu",
 
   "icons": {
     "16":  "images/icon-16.png",
